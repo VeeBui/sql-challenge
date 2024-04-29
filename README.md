@@ -5,12 +5,12 @@ Violet Bui - Data Bootcamp - Module 9 challenge
 Research into the Pewlett Hackard (fictitious) company. The relationship between six csv files with various information about the departments and employees of PH was analysed. Specified questions have been answered.
 
 ### Provided csv files (found in /data):
-- <u>departments.csv</u>: Departments at HP
-- <u>dept_emp.csv</u>:  Employees within each department
-- <u>dept_manager.csv</u>:  Managers for each department
-- <u>employees.csv</u>:  All employees at HP
-- <u>salaries.csv</u>:  Salaries for each employee
-- <u>titles.csv</u>:  Job titles at HP
+- departments.csv: Departments at HP
+- dept_emp.csv:  Employees within each department
+- dept_manager.csv:  Managers for each department
+- employees.csv:  All employees at HP
+- salaries.csv:  Salaries for each employee
+- titles.csv:  Job titles at HP
 
 
 ### Entity Relationship Diagram of provided csv files (found in /ERD):   
